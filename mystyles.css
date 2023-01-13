@@ -1,0 +1,26 @@
+h1{
+  color:black; 
+  background-color:rgb(217, 160, 223);
+  text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size:  20px;
+    justify-content: space-between;
+    margin-left: 2cm;
+    margin-right: 2cm;
+   
+     }
+     *{
+        background-color:rgb(220, 217, 226);
+     }
+     img{
+        border-bottom:black solid;
+           height: 235px;
+           width:335px;
+           border: solid;
+           justify-content: space-between;
+           margin-left: 1cm;
+           margin-right: 1cm;
+         }
